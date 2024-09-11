@@ -23,5 +23,5 @@ strMainSheet = properties.get('strMainSheet')
 strInfoSheet = properties.get('strInfoSheet')
 strColumnActionSheet = properties.get('strColumnActionSheet')
 
-print(strFullPathDatatable)
-print(strPathDatatable)
+# print(strFullPathDatatable)
+# print(strPathDatatable)
